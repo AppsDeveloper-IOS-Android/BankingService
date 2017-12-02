@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "input": {
+            "context": "a"
+        },
+        "button-type": {
+            "context": "a"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="callSP">
+      <implementation-class>BankingServiceSP.callSP</implementation-class>
+    </service>
+    <service name="call12cSP">
+      <implementation-class>BankingServiceSP.call12cSP</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
